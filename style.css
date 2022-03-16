@@ -1,0 +1,33 @@
+table{
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(128, 0, 0);
+    background-color: rgb(179, 93, 136);
+    margin-left:300px ;
+    width: 900px;
+    }
+th{
+    font-weight: 800;
+    background-color: rgb(0, 0, 0);
+    color:  #ffffff;
+}
+td{
+    font-size: 17px;
+    color: black;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border-radius: 75%;
+    font-size: 50px;
+    color: rgb(26, 2, 22);
+    font-style: italic;
+    background-color: rgb(136, 67, 110);
+      
+}
+body {
+ background-color: #db3575;
+}
